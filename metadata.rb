@@ -1,4 +1,4 @@
-name 'windows_hardening'
+name 'windows_2012r2_memberserver_hardening'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
